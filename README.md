@@ -6,7 +6,6 @@ This project demonstrates hands-on network troubleshooting and basic SOC-style t
 ## Tools Used
 - Wireshark
 - Command Prompt
-- PowerShell
 - Windows OS
 
 ## Key Activities
@@ -21,7 +20,3 @@ This project demonstrates hands-on network troubleshooting and basic SOC-style t
 - Identification of TCP SYN scan patterns
 - Analysis of unknown destination IP traffic
 
-## Learning Outcomes
-- Network troubleshooting
-- Packet-level traffic analysis
-- Basic SOC detection techniques
